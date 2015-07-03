@@ -1,0 +1,28 @@
+{
+  "name": "umbo",
+  "version": "0.0.1",
+  "description": "Badge as a service as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzyn/umbo.git"
+  },
+  "keywords": [
+    "badge",
+    "shields",
+    "coverage",
+    "unit test",
+    "ci",
+    "readme",
+    "continual integration"
+  ],
+  "author": "U-Zyn Chua <uzyn@zynesis.com> (http://zynesis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzyn/umbo/issues"
+  },
+  "homepage": "https://github.com/uzyn/umbo#readme"
+}
