@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "type": "numeric",
+    "defaultSubject": "coverage"
+  },
+  "_label": {
+    "suffix": "%",
+    "fixed": 2
+  },
+  "lt50": {
+    "color": "red"
+  },
+  "lt70": {
+    "color": "#CC9CB4"
+  },
+  "lt90": {
+    "color": "yellow"
+  },
+  "gte90": {
+    "color": "brightgreen"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "type": "enum",
+    "defaultSubject": "build"
+  },
+  "passing": {
+    "label": "Passing",
+    "color": "brightgreen"
+  },
+  "failing": {
+    "label": "Failing",
+    "color": "red"
+  }
+}
