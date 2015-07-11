@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "type": "numeric",
+    "defaultSubject": "weather"
+  },
+  "_label": {
+    "suffix": "°F",
+    "fixed": 2
+  },
+  "gte100": {
+    "color": "red"
+  },
+  "gte80": {
+    "color": "orange"
+  },
+  "gte65": {
+    "color": "yellow"
+  },
+  "gte50": {
+    "color": "yellowgreen"
+  },
+  "gte30": {
+    "color": "green"
+  },
+  "lt30": {
+    "color": "blue"
+  }
+}
